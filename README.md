@@ -1,4 +1,4 @@
-# 📘 Lista de Exercícios — Programação Estruturada em C/C++
+# 📘 Lista de Exercícios — Programação Estruturada em C
 
 Esta pasta contém os exercícios desenvolvidos na disciplina de Programação Estruturada, abrangendo estruturas básicas, operadores, condicionais, loops, vetores, matrizes, structs e funções.
 
@@ -13,3 +13,4 @@ Todos os arquivos estão com extensão `.cpp` porque foram desenvolvidos no Visu
 **Everson Borges**  
 Curso: Ciência da Computação — IFMA  
 GitHub: https://github.com/eversonmot4
+

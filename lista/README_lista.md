@@ -1,10 +1,3 @@
-# 📘 Lista de Exercícios — Programação Estruturada em C/C++
-
-Esta pasta contém todos os exercícios práticos realizados ao longo da disciplina, organizados por tema e complexidade crescente.  
-Os exercícios cobrem desde lógica básica até vetores, matrizes, funções e estruturas heterogêneas (structs).
-
----
-
 # 🧭 Organização dos Exercícios
 
 A seguir está o resumo real de cada exercício baseado no código implementado.
@@ -128,4 +121,5 @@ Sistema completo com:
 
 # ✔️ Objetivo
 Esta pasta demonstra evolução real na programação estruturada, base essencial para disciplinas futuras como Estrutura de Dados e Programação Orientada a Objetos.
+
 

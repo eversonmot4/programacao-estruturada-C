@@ -26,7 +26,7 @@ Envolve:
 
 ---
 
-## 🔹 **Atividade Extra — Condicionais**
+## 🔹 **Exercício 3 — Condicionais**
 Inclui:
 - Cálculo de área/perímetro de um círculo  
 - Verificação de triângulo retângulo  
@@ -38,7 +38,7 @@ Inclui:
 
 ---
 
-## 🔹 **Estruturas de Repetição**
+## 🔹 **Exercício 4 - Estruturas de Repetição**
 Conjunto extenso de exercícios usando:
 
 ### ✔️ For  
@@ -121,3 +121,4 @@ Sistema completo com:
 
 # ✔️ Objetivo
 Esta pasta demonstra evolução real na programação estruturada, base essencial para disciplinas futuras como Estrutura de Dados e Programação Orientada a Objetos.
+

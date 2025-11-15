@@ -121,5 +121,3 @@ Sistema completo com:
 
 # ✔️ Objetivo
 Esta pasta demonstra evolução real na programação estruturada, base essencial para disciplinas futuras como Estrutura de Dados e Programação Orientada a Objetos.
-
-
